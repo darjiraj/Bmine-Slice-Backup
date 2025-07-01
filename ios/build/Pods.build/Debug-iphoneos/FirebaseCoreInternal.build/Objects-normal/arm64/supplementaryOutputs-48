@@ -1,0 +1,18 @@
+"/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift":
+  const-values: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.swiftconstvalues"
+  object: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.o"
+  dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.d"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.swiftdeps"
+  diagnostics: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.dia"
+"/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift":
+  const-values: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.swiftconstvalues"
+  dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.d"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.swiftdeps"
+  object: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.o"
+  diagnostics: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.dia"
+"/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift":
+  diagnostics: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.dia"
+  object: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.o"
+  const-values: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.swiftconstvalues"
+  dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.d"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.swiftdeps"

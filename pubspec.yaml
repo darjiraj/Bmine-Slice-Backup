@@ -1,0 +1,79 @@
+name: bmine_slice
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.9+9
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  fluttertoast: ^8.2.12
+  intl: ^0.19.0
+  flutter_switch: ^0.3.2
+  chat_bubbles: ^1.3.1
+  dotted_border: ^2.1.0
+  image_picker: ^1.0.4
+  http: ^1.2.2
+  provider: ^6.0.5
+  google_sign_in: ^6.2.0
+  sign_in_with_apple: ^6.1.0
+  connectivity_plus: ^6.1.0
+  shared_preferences: ^2.2.2
+  firebase_auth: ^5.3.3
+  firebase_core: ^3.8.0
+  firebase_messaging: ^15.1.5
+  firebase_database: ^11.1.6
+  geolocator: ^13.0.1
+  permission_handler: ^11.3.1
+  flutter_webrtc: ^0.13.1+hotfix.1
+  cloud_firestore: ^5.5.0
+  audio_session: ^0.1.21
+  flutter_sound: ^9.17.0
+  firebase_storage: ^12.3.6
+  audioplayers: ^6.1.0
+  path_provider: ^2.1.5
+  record: ^6.0.0
+  flutter_local_notifications: ^18.0.1
+  flutter_ringtone_player: ^4.0.0+4
+  in_app_purchase: ^3.2.0
+  in_app_purchase_android: ^0.3.6+13
+  in_app_purchase_storekit: ^0.3.20+3
+  flutter_localization: ^0.3.1
+  url_launcher: ^6.3.1
+  blur: ^4.0.0
+  google_places_flutter: ^2.0.9
+  badges: ^3.1.2
+  flutter_native_splash: ^2.4.4
+  flutter_badge_manager: ^0.0.1
+  video_compress: ^3.1.4
+  video_player: ^2.9.5
+  wakelock_plus: ^1.3.1
+  app_links: ^6.4.0
+  share_plus: ^11.0.0
+  qr_flutter: ^4.1.0
+  reorderables: ^0.6.0
+  video_thumbnail: ^0.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: lib/assets/fonts/Quicksand-Bold.ttf
+          weight: 700
+        - asset: lib/assets/fonts/Quicksand-Light.ttf
+          weight: 300
+        - asset: lib/assets/fonts/Quicksand-Medium.ttf
+          weight: 500
+        - asset: lib/assets/fonts/Quicksand-Regular.ttf
+          weight: 400
+    - family: MarcellusSC
+      fonts:
+        - asset: lib/assets/fonts/MarcellusSC-Regular.ttf

@@ -1,0 +1,18 @@
+"/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift":
+  dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.d"
+  object: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.o"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.swiftdeps"
+  diagnostics: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.dia"
+  const-values: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.swiftconstvalues"
+"/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift":
+  const-values: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.swiftconstvalues"
+  object: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.o"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.swiftdeps"
+  dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.d"
+  diagnostics: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.dia"
+"/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift":
+  object: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.o"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.swiftdeps"
+  dependencies: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.d"
+  const-values: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.swiftconstvalues"
+  diagnostics: "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.dia"

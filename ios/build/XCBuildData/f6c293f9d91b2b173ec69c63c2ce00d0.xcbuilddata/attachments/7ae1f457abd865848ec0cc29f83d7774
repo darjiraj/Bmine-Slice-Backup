@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/in_app_purchase_storekit-master.dia",
+    "emit-module-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/in_app_purchase_storekit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/in_app_purchase_storekit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/in_app_purchase_storekit-master.swiftdeps"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/in_app_purchase_storekit-0.3.20+3/darwin/Classes/InAppPurchasePlugin.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin.bc",
+    "object" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin~partial.swiftmodule"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/in_app_purchase_storekit-0.3.20+3/darwin/Classes/StoreKit2/InAppPurchasePlugin+StoreKit2.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2.bc",
+    "object" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/InAppPurchasePlugin+StoreKit2~partial.swiftmodule"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/in_app_purchase_storekit-0.3.20+3/darwin/Classes/StoreKit2/StoreKit2Translators.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators.bc",
+    "object" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/StoreKit2Translators~partial.swiftmodule"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/in_app_purchase_storekit-0.3.20+3/darwin/Classes/StoreKit2/sk2_pigeon.g.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g.bc",
+    "object" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/in_app_purchase_storekit.build/Objects-normal/arm64/sk2_pigeon.g~partial.swiftmodule"
+  }
+}

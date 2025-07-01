@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/flutter_localization-master.dia",
+    "emit-module-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/flutter_localization-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/flutter_localization-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/flutter_localization-master.swiftdeps"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/flutter_localization-0.3.1/ios/Classes/SwiftFlutterLocalizationPlugin.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin.bc",
+    "object" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/flutter_localization.build/Objects-normal/arm64/SwiftFlutterLocalizationPlugin~partial.swiftmodule"
+  }
+}

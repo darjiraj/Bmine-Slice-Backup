@@ -1,0 +1,38 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_flutter_ringtone_playerVersionNumber",
+            "_flutter_ringtone_playerVersionString",
+            "_pluginRegistrar"
+          ],
+          "objc_class": [
+            "PodsDummy_flutter_ringtone_player",
+            "FlutterRingtonePlayerPlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/flutter_ringtone_player.framework/flutter_ringtone_player"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "15",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423051780063",
+    "project_id": "b-mine-58f86",
+    "storage_bucket": "b-mine-58f86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423051780063:android:c4e60b39877634b04c6e6a",
+        "android_client_info": {
+          "package_name": "com.app.bmine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423051780063-ofvdg2agc9sqi97gtu6jko26d6cm00jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.bmine",
+            "certificate_hash": "d9a246b16b5f928586683024cdfca838bf22460a"
+          }
+        },
+        {
+          "client_id": "423051780063-8penktcnv0kbkno7p2bj2bbflq67j95c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXtQrZAWZDusPGkh6p73Dd7a17KJtYeFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423051780063-8penktcnv0kbkno7p2bj2bbflq67j95c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

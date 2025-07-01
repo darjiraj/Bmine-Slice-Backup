@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Debug-iphoneos/video_compress/video_compress.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/video_compress.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Debug-iphoneos/video_compress/video_compress.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "video_compress-Swift.h",
+      'external-contents': "/Users/bhavikdarji/Desktop/Bmine-Slice-backup 2/ios/build/Pods.build/Debug-iphoneos/video_compress.build/unextended-interface-header.h",
+    }]
+    }]
+}

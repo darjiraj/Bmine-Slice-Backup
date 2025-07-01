@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/build/Pods.build/Debug-iphoneos/FirebaseDatabase.build/module.modulemap \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FEventEmitter.m \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FEventEmitter.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Api/FIRDatabaseConfig.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Api/Private/FTypedefs_Private.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDatabaseQuery.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDataEventType.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDataSnapshot.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Api/Private/FIRDatabaseQuery_Private.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/FQueryParams.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/FRepo.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/FPersistentConnection.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/FRepoInfo.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Realtime/FConnection.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Realtime/FWebSocketConnection.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FUtilities.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/build/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRComponent.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseCore/Extension/FIRLogger.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FParsedUrl.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/Utilities/FPath.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FTypedefs.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/Tuples/FTupleUserCallback.h \
+  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/FRepoManager.h
