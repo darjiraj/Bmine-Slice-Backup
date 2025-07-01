@@ -1,3 +1,0 @@
-dependencies: \
-  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/build/Pods.build/Debug-iphoneos/firebase_core.build/module.modulemap \
-  /Users/bhavikdarji/Desktop/Bmine-Slice-backup\ 2/ios/build/Pods.build/Debug-iphoneos/firebase_core.build/DerivedSources/firebase_core_vers.c
