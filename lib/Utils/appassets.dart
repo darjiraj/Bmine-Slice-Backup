@@ -67,4 +67,11 @@ class AppAssets {
   static String language = "$basePath/language.png";
   static String applogo = "$basePath/applogo.png";
   static String verificationperson = "$basePath/verification.jpg";
+  static String homeiconselected = "$basePath/home_icon_selected.png";
+  static String likeiconselected = "$basePath/like_icon_selected.png";
+  static String liveeventiconselected = "$basePath/live_event_icon_selected.png";
+  static String micicon = "$basePath/mic_icon.png";
+  static String playicon = "$basePath/play_icon.png";
+  static String profileicon = "$basePath/profile_icon.png";
+  static String sendicon = "$basePath/send_icon.png";
 }

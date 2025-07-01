@@ -360,8 +360,8 @@ class _FiltersScreenState extends State<FiltersScreen>
                                 begin: Alignment.topCenter,
                                 end: Alignment.bottomCenter,
                                 colors: [
-                                  AppColors.signinclr1,
-                                  AppColors.signinclr2
+                                  AppColors.gradientclr1,
+                                  AppColors.gradientclr2
                                 ],
                               )
                             : const LinearGradient(
@@ -480,8 +480,8 @@ class _FiltersScreenState extends State<FiltersScreen>
                                   begin: Alignment.topCenter,
                                   end: Alignment.bottomCenter,
                                   colors: [
-                                    AppColors.signinclr1,
-                                    AppColors.signinclr2
+                                    AppColors.gradientclr1,
+                                    AppColors.gradientclr2
                                   ],
                                 )
                               : const LinearGradient(
@@ -750,8 +750,8 @@ class _FiltersScreenState extends State<FiltersScreen>
                                     begin: Alignment.topCenter,
                                     end: Alignment.bottomCenter,
                                     colors: [
-                                      AppColors.signinclr1,
-                                      AppColors.signinclr2
+                                      AppColors.gradientclr1,
+                                      AppColors.gradientclr2
                                     ],
                                   )
                                 : const LinearGradient(
@@ -829,8 +829,8 @@ class _FiltersScreenState extends State<FiltersScreen>
                                     begin: Alignment.topCenter,
                                     end: Alignment.bottomCenter,
                                     colors: [
-                                      AppColors.signinclr1,
-                                      AppColors.signinclr2
+                                      AppColors.gradientclr1,
+                                      AppColors.gradientclr2
                                     ],
                                   )
                                 : const LinearGradient(

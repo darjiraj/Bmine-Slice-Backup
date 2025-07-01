@@ -18,7 +18,6 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
   TextEditingController emailController = TextEditingController();
   bool isLoading = false;
 
-
   bool isValidEmail(String email) {
     final emailRegex = RegExp(r'^[^@\s]+@[^@\s]+\.[^@\s]+$');
     return emailRegex.hasMatch(email);
@@ -109,8 +108,8 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
                                   begin: Alignment.topCenter,
                                   end: Alignment.bottomCenter,
                                   colors: <Color>[
-                                    AppColors.signinclr1,
-                                    AppColors.signinclr2
+                                    AppColors.gradientclr1,
+                                    AppColors.gradientclr2
                                   ],
                                 ),
                               ),

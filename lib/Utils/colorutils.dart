@@ -6,6 +6,8 @@ class AppColors {
   static const Color datetimetextfieldclr = Color(0xffC4C4C4);
   static const Color signinclr2 = Color(0xff0EB8FE);
   static const Color signinclr1 = Color(0xff2967F2);
+  static const Color gradientclr1 = Color(0xff362399);
+  static const Color gradientclr2 = Color(0xffC55FD7);
   static const Color blueclr = Color(0xff2083F8);
   static const Color whiteclr = Color(0xffffffff);
   static const Color borgergreyclr = Color(0xffBFBFBF);

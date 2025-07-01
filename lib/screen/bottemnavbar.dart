@@ -35,7 +35,6 @@ class BottomNavBar extends StatefulWidget {
 
 class _BottomNavBarState extends State<BottomNavBar>
     with WidgetsBindingObserver {
-  
   int pageIndex = 0;
   int matchcount = 0;
   int meetingcount = 0;
@@ -65,12 +64,10 @@ class _BottomNavBarState extends State<BottomNavBar>
     await getMeetingRequestAPI();
   }
 
- 
-
   @override
   void initState() {
     super.initState();
-  
+
     gefcmToken();
     getCallAPI();
     WidgetsBinding.instance.addObserver(this);
@@ -303,36 +300,42 @@ class _BottomNavBarState extends State<BottomNavBar>
             items: [
               BottomNavigationBarItem(
                 icon: Image.asset(
-                  AppAssets.activehomeicon,
+                  AppAssets.homeiconselected,
+                  // AppAssets.activehomeicon,
                   color: AppColors.borgergreyclr,
                   height: 30,
                 ),
                 activeIcon: Image.asset(
-                  AppAssets.activehomeicon,
+                  AppAssets.homeiconselected,
+                  // AppAssets.activehomeicon,
                   height: 30,
                 ),
                 label: Languages.of(context)!.hometxt,
               ),
               BottomNavigationBarItem(
                 icon: Image.asset(
-                  AppAssets.activelikeicon,
+                  AppAssets.likeiconselected,
+                  // AppAssets.activelikeicon,
                   height: 30,
                   color: AppColors.borgergreyclr,
                 ),
                 activeIcon: Image.asset(
-                  AppAssets.activelikeicon,
+                  AppAssets.likeiconselected,
+                  // AppAssets.activelikeicon,
                   height: 30,
                 ),
                 label: Languages.of(context)!.likestxt,
               ),
               BottomNavigationBarItem(
                 icon: Image.asset(
-                  AppAssets.activecaladericon,
+                  AppAssets.liveeventiconselected,
+                  // AppAssets.activecaladericon,
                   height: 30,
                   color: AppColors.borgergreyclr,
                 ),
                 activeIcon: Image.asset(
-                  AppAssets.activecaladericon,
+                  AppAssets.liveeventiconselected,
+                  // AppAssets.activecaladericon,
                   height: 30,
                 ),
                 label: Languages.of(context)!.liveeventsnavtxt,
@@ -374,20 +377,52 @@ class _BottomNavBarState extends State<BottomNavBar>
                           height: 30,
                         ),
                       )
-                    : Image.asset(
-                        AppAssets.activemassageicon,
-                        height: 30,
+                    // : Image.asset(
+                    //     AppAssets.activemassageicon,
+                    //     height: 30,
+                    //    gradient: const LinearGradient(
+                    //             begin: Alignment.topCenter,
+                    //             end: Alignment.bottomCenter,
+                    //             colors: <Color>[
+                    //               // AppColors.signinclr1,
+                    //               // AppColors.signinclr2
+                    //               AppColors.gradientclr1,
+                    //               AppColors.gradientclr2
+                    //             ],
+                    //           ),
+                    //   ),
+                    : ShaderMask(
+                        shaderCallback: (Rect bounds) {
+                          return const LinearGradient(
+                            begin: Alignment.topCenter,
+                            end: Alignment.bottomCenter,
+                            colors: <Color>[
+                              AppColors.gradientclr1,
+                              AppColors.gradientclr2,
+                            ],
+                          ).createShader(bounds);
+                        },
+                        blendMode: BlendMode.srcIn,
+                        child: ImageIcon(
+                          AssetImage(AppAssets
+                              .activemassageicon), // Replace with your asset
+                          size: 30,
+                          color:
+                              Colors.white, // Will be overridden by ShaderMask
+                        ),
                       ),
                 label: Languages.of(context)!.chatstxt,
               ),
               BottomNavigationBarItem(
                 icon: Image.asset(
-                  AppAssets.activeprofileicon,
+                  AppAssets.profileicon,
+                  // AppAssets.activeprofileicon,
                   height: 30,
                   color: AppColors.borgergreyclr,
                 ),
                 activeIcon: Image.asset(
-                  AppAssets.activeprofileicon,
+                  AppAssets.profileicon,
+                  // AppAssets.activeprofileicon,
                   height: 30,
                 ),
                 label: Languages.of(context)!.profilenavtxt,

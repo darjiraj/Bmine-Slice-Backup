@@ -966,10 +966,14 @@ class _MyProfileScreenState extends State<MyProfileScreen>
                                                                     end: Alignment
                                                                         .bottomCenter,
                                                                     colors: <Color>[
-                                                                      AppColors
-                                                                          .signinclr1,
-                                                                      AppColors
-                                                                          .signinclr2
+                                                                      // AppColors
+                                                                      //     .signinclr1,
+                                                                      Color(
+                                                                          0xff362399),
+                                                                      Color(
+                                                                          0xffC55FD7),
+                                                                      // AppColors
+                                                                      //     .signinclr2
                                                                     ],
                                                                   ),
                                                                 ),
@@ -1467,8 +1471,10 @@ class _MyProfileScreenState extends State<MyProfileScreen>
                                     begin: Alignment.topCenter,
                                     end: Alignment.bottomCenter,
                                     colors: <Color>[
-                                      AppColors.signinclr1,
-                                      AppColors.signinclr2
+                                      // AppColors.signinclr1,
+                                      // AppColors.signinclr2
+                                      AppColors.gradientclr1,
+                                      AppColors.gradientclr2
                                     ],
                                   ),
                                 ),
@@ -1786,8 +1792,10 @@ class _MyProfileScreenState extends State<MyProfileScreen>
                                   begin: Alignment.topCenter,
                                   end: Alignment.bottomCenter,
                                   colors: <Color>[
-                                    AppColors.signinclr1,
-                                    AppColors.signinclr2
+                                    // AppColors.signinclr1,
+                                    // AppColors.signinclr2
+                                    AppColors.gradientclr1,
+                                    AppColors.gradientclr2
                                   ],
                                 ),
                               ),

@@ -175,8 +175,8 @@ class _ContactUsScreenState extends State<ContactUsScreen> {
                             begin: Alignment.topCenter,
                             end: Alignment.bottomCenter,
                             colors: <Color>[
-                              AppColors.signinclr1,
-                              AppColors.signinclr2
+                              AppColors.gradientclr1,
+                              AppColors.gradientclr2
                             ],
                           ),
                         ),

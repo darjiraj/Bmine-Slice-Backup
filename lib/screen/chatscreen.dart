@@ -691,7 +691,8 @@ class _ChatScreenState extends State<ChatScreen> {
                                   ),
                                   padding: const EdgeInsets.all(8.0),
                                   child: Image.asset(
-                                    AppAssets.send,
+                                    // AppAssets.send,
+                                    AppAssets.sendicon,
                                     width: 20,
                                     height: 20,
                                     color: AppColors.whiteclr,
@@ -702,8 +703,14 @@ class _ChatScreenState extends State<ChatScreen> {
                                 onTap: () async {
                                   await _startRecording();
                                 },
-                                child: const Icon(Icons.mic_none,
-                                    color: Colors.black, size: 25),
+                                // child: const Icon(Icons.mic_none,
+                                //     color: Colors.black, size: 25),
+                                child: Image.asset(
+                                  AppAssets.micicon,
+                                  width: 23,
+                                  height: 23,
+                                  // color: AppColors.btngrey,
+                                ),
                               ),
                         const SizedBox(width: 5),
 
@@ -716,23 +723,29 @@ class _ChatScreenState extends State<ChatScreen> {
                                     _messageController.text.trim(), "0");
                               }
                             },
-                            child: Container(
-                              decoration: BoxDecoration(
-                                shape: BoxShape.circle,
-                                color: _messageController.text.isEmpty
-                                    ? AppColors.lightgreyclr
-                                    : AppColors.signinclr1,
-                              ),
-                              padding: const EdgeInsets.all(8.0),
-                              child: Image.asset(
-                                AppAssets.send,
-                                width: 20,
-                                height: 20,
-                                color: _messageController.text.isEmpty
-                                    ? AppColors.btngrey
-                                    : AppColors.whiteclr,
-                              ),
+                            child: Image.asset(
+                              width: 25,
+                              AppAssets.sendicon,
+                              height: 25,
                             ),
+                            // child: Container(
+                            //   decoration: BoxDecoration(
+                            //     shape: BoxShape.circle,
+                            //     color: _messageController.text.isEmpty
+                            //         ? AppColors.lightgreyclr
+                            //         : AppColors.signinclr1,
+                            //   ),
+                            //   padding: const EdgeInsets.all(8.0),
+                            //   child: Image.asset(
+                            //     width: 20,
+                            //     // AppAssets.send,
+                            //     AppAssets.sendicon,
+                            //     height: 20,
+                            //     // color: _messageController.text.isEmpty
+                            //     //     ? AppColors.btngrey
+                            //     //     : Colors.transparent,
+                            //   ),
+                            // ),
                           ),
                       ],
                     ),
@@ -1883,18 +1896,29 @@ class _AudioMessagePlayerState extends State<AudioMessagePlayer>
           children: [
             GestureDetector(
               onTap: _playPause,
-              child: Container(
-                width: 35,
-                height: 35,
-                decoration: const BoxDecoration(
-                  color: AppColors.signinclr1,
-                  shape: BoxShape.circle,
-                ),
-                child: Icon(
-                  isPlaying ? Icons.pause : Icons.play_arrow,
-                  color: Colors.white,
-                ),
-              ),
+              child: isPlaying
+                  ? Container(
+                      width: 35,
+                      height: 35,
+                      decoration: BoxDecoration(
+                        color: Color(0xff3E26B5),
+                        shape: BoxShape.circle,
+                      ),
+                      child: const Icon(
+                        Icons.pause,
+                        color: AppColors.whiteclr,
+                      )
+
+                      // Icon(
+                      //   isPlaying ? Icons.pause : Icons.play_arrow,
+                      //   color: Colors.white,
+                      // ),
+                      )
+                  : ImageIcon(
+                      AssetImage(AppAssets.playicon),
+                      size: 35,
+                      color: Color(0xff3E26B5),
+                    ),
             ),
             const SizedBox(width: 12),
             Expanded(
@@ -1980,10 +2004,17 @@ class _AudioMessagePlayerState extends State<AudioMessagePlayer>
                           : NetworkImage(
                               "${API.baseUrl}/upload/${widget.opponentUserPhoto}")),
                 ),
-                const Positioned(
+                Positioned(
                   bottom: 0,
                   right: 0,
-                  child: Icon(Icons.mic, size: 16, color: AppColors.signinclr1),
+                  child: Image.asset(
+                    AppAssets.micicon,
+                    width: 18,
+                    height: 18,
+                    // color: AppColors.btngrey,
+                  ),
+
+                  // Icon(Icons.mic, size: 16, color: AppColors.signinclr1),
                 ),
               ],
             ),
