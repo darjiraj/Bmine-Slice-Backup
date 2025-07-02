@@ -77,3 +77,6 @@ flutter:
     - family: MarcellusSC
       fonts:
         - asset: lib/assets/fonts/MarcellusSC-Regular.ttf
+    - family: PanDisplay
+      fonts:
+        - asset: lib/assets/fonts/PanDisplay-Bold.ttf

@@ -2,6 +2,11 @@ import 'package:bmine_slice/Utils/colorutils.dart';
 import 'package:flutter/material.dart';
 
 class Appstyle {
+  static TextStyle PanDisplay24w600 = const TextStyle(
+      fontFamily: "PanDisplay",
+      fontSize: 24,
+      color: AppColors.blackclr,
+      fontWeight: FontWeight.w600);
   static TextStyle quicksand24w600 = const TextStyle(
       fontFamily: "Quicksand",
       fontSize: 24,

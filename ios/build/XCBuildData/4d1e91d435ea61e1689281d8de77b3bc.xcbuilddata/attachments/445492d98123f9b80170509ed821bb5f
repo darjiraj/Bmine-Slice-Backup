@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Debug-iphoneos/sign_in_with_apple/sign_in_with_apple.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/sign_in_with_apple.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Debug-iphoneos/sign_in_with_apple/sign_in_with_apple.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "sign_in_with_apple-Swift.h",
+      'external-contents': "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/sign_in_with_apple.build/unextended-interface-header.h",
+    }]
+    }]
+}

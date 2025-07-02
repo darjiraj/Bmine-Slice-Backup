@@ -37,6 +37,7 @@ abstract class Languages {
   String get alreadyhaveanaccounttxt;
   String get registertxt;
   String get bminetxt;
+  String get bminelowertxt;
   String get offlinetxt;
   String get janef25txt;
   String get graphicDesigneratBriteLeaptxt;

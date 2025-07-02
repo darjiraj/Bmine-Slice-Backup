@@ -16,6 +16,8 @@ class LanguageFr extends Languages {
   @override
   String get ortxt => "ou";
   @override
+  String get bminelowertxt => "Bmine";
+  @override
   String get eventtypetxt => "Type d'événement";
   @override
   String get straightmenwomantxt => "Hommes et femmes hétérosexuels";

@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/video_compress-master.dia",
+    "emit-module-dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/video_compress-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/video_compress-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/video_compress-master.swiftdeps"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/video_compress-3.1.4/ios/Classes/AvController.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController.bc",
+    "object" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/AvController~partial.swiftmodule"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/video_compress-3.1.4/ios/Classes/SwiftVideoCompressPlugin.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin.bc",
+    "object" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/SwiftVideoCompressPlugin~partial.swiftmodule"
+  },
+  "/Users/bhavikdarji/.pub-cache/hosted/pub.dev/video_compress-3.1.4/ios/Classes/Utility.swift" : {
+    "const-values" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility.swiftconstvalues",
+    "dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility.d",
+    "diagnostics" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility.o",
+    "llvm-bc" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility.bc",
+    "object" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility.o",
+    "swift-dependencies" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility.swiftdeps",
+    "swiftmodule" : "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/video_compress.build/Objects-normal/arm64/Utility~partial.swiftmodule"
+  }
+}

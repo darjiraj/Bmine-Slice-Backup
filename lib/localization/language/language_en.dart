@@ -64,6 +64,8 @@ class LanguageEn extends Languages {
   @override
   String get bminetxt => "BMINE";
   @override
+  String get bminelowertxt => "Bmine";
+  @override
   String get offlinetxt => "Offline";
   @override
   String get janef25txt => "Jane F,25";

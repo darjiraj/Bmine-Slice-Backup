@@ -1,0 +1,36 @@
+"/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  const-values: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.swiftconstvalues"
+  dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.d"
+  diagnostics: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"
+  object: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+"/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  object: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.o"
+  dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.d"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftdeps"
+  diagnostics: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.dia"
+  const-values: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftconstvalues"
+"/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  diagnostics: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+  const-values: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftconstvalues"
+  object: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.o"
+  dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+"/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift":
+  const-values: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.swiftconstvalues"
+  object: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.o"
+  dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.d"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.swiftdeps"
+  diagnostics: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageConstants.dia"
+"/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift":
+  diagnostics: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.dia"
+  object: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.o"
+  dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.d"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.swiftdeps"
+  const-values: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDeleteTask.swiftconstvalues"
+"/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift":
+  object: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.o"
+  diagnostics: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.dia"
+  const-values: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftconstvalues"
+  dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.d"
+  swift-dependencies: "/Users/bhavikdarji/Desktop/new git clone/New Clone/BMINE-Backup/Bmine-Slice-Backup/ios/build/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftdeps"

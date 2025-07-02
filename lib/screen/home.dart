@@ -314,8 +314,8 @@ class _HomeScreenState extends State<HomeScreen>
                     fit: BoxFit.fill,
                   ),
                   GradientText(
-                    text: Languages.of(context)!.bminetxt,
-                    style: Appstyle.marcellusSC24w500,
+                    text: Languages.of(context)!.bminelowertxt,
+                    style: Appstyle.PanDisplay24w600,
                   ),
                 ],
               ),
