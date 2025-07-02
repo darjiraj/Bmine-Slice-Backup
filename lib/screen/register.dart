@@ -542,8 +542,8 @@ class _RegisterScreenState extends State<RegisterScreen> {
                                                 placeDetails['latitude']
                                                     .toString();
 
-                                            country = placeDetails['country']
-                                                .toString();
+                                            country =
+                                                placeDetails['city'].toString();
                                             hometownLong =
                                                 placeDetails['longitude']
                                                     .toString();

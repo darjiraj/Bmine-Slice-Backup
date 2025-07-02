@@ -4720,8 +4720,8 @@ class _EditProfileScreenState extends State<EditProfileScreen>
                                           hometownLat = placeDetails['latitude']
                                               .toString();
 
-                                          country = placeDetails['country']
-                                              .toString();
+                                          country =
+                                              placeDetails['city'].toString();
                                           hometownLong =
                                               placeDetails['longitude']
                                                   .toString();
