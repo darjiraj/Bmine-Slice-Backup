@@ -23,7 +23,10 @@ class GradientText extends StatelessWidget {
       },
       child: Text(
         text,
-        style: style.copyWith(color: Colors.white),
+        style: style.copyWith(
+          color: Colors.white,
+          // letterSpacing: 1.5, // Add your desired spacing here
+        ),
       ),
     );
   }

@@ -1159,6 +1159,9 @@ Les utilisateurs de Gmail doivent également vérifier l'onglet Social et Promot
   String get mitxt => "MI";
 
   @override
+  String get virtualdatingtxt => "Rencontres virtuelles";
+
+  @override
   String get selectmeasurementsystemtxt => "Sélectionner le système de mesure";
 
   @override

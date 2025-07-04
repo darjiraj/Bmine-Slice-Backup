@@ -112,9 +112,17 @@ class _SplashscreenState extends State<Splashscreen> {
             right: 0,
             bottom: 25,
             child: Center(
-              child: GradientText(
-                text: Languages.of(context)!.bminetxt,
-                style: Appstyle.marcellusSC45w600,
+              child: Column(
+                children: [
+                  GradientText(
+                    text: Languages.of(context)!.bminelowertxt,
+                    style: Appstyle.PanDisplay45w600,
+                  ),
+                  GradientText(
+                    text: Languages.of(context)!.virtualdatingtxt,
+                    style: Appstyle.PanDisplay22w600,
+                  ),
+                ],
               ),
             ),
           ),

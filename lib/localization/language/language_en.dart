@@ -1312,7 +1312,8 @@ Gmail users should check the Social and Promotions tab of your inbox, too.''';
   @override
   String get clearlistalerttxt => "Are you sure you want to clear this list?";
   @override
-  String get pleaseaddatleastoneimagetxt => "Please add at least one image to your profile or your profile will be hidden from other users";
+  String get pleaseaddatleastoneimagetxt =>
+      "Please add at least one image to your profile or your profile will be hidden from other users";
 
   @override
   String get dataalreadyclearedtxt => "Data already cleared.";
@@ -1322,8 +1323,13 @@ Gmail users should check the Social and Promotions tab of your inbox, too.''';
 
   @override
   String get upload30secvideotxt => "Please upload a video of up to 30 seconds";
+
   @override
   String get scan_to_view_profile => "Scan to view profile";
-   @override
+
+  @override
   String get enterhometowntxt => "Please Enter Hometown";
+
+  @override
+  String get virtualdatingtxt => "Virtual Dating";
 }

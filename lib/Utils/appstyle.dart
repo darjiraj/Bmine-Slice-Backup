@@ -7,6 +7,18 @@ class Appstyle {
       fontSize: 24,
       color: AppColors.blackclr,
       fontWeight: FontWeight.w600);
+  static TextStyle PanDisplay22w600 = const TextStyle(
+      fontFamily: "PanDisplay",
+      fontSize: 22,
+      letterSpacing: 10,
+      color: AppColors.blackclr,
+      fontWeight: FontWeight.w600);
+
+  static TextStyle PanDisplay45w600 = const TextStyle(
+      fontFamily: "PanDisplay",
+      fontSize: 45,
+      color: AppColors.blackclr,
+      fontWeight: FontWeight.w600);
   static TextStyle quicksand24w600 = const TextStyle(
       fontFamily: "Quicksand",
       fontSize: 24,

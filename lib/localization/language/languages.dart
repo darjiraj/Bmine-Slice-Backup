@@ -40,6 +40,7 @@ abstract class Languages {
   String get bminelowertxt;
   String get offlinetxt;
   String get janef25txt;
+  String get virtualdatingtxt;
   String get graphicDesigneratBriteLeaptxt;
   String get artsandmediatxt;
   String get milesawaytxt;
