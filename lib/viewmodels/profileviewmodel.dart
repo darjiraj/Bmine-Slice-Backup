@@ -232,4 +232,7 @@ class ProfileViewModel extends ChangeNotifier {
       notifyListeners();
     }
   }
+
+  updateProfileData(String text, String text2, String text3,
+      TextEditingController hometownController) {}
 }
