@@ -4,8 +4,8 @@ class API {
   // static String baseUrl = "http://192.168.1.37:5000";
 
   // static String baseUrl = "http://34.238.246.50:6001";
-  // static String baseUrl = "https://bminedating.com";
-  static String baseUrl = "http://35.173.211.225:6001";
+  static String baseUrl = "https://bminedating.com";
+  // static String baseUrl = "http://35.173.211.225:6001";
 
   static String dosignup = "$baseUrl/api/signup";
   static String dologin = "$baseUrl/api/login";

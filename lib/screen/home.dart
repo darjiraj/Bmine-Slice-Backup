@@ -150,6 +150,7 @@ class _HomeScreenState extends State<HomeScreen>
     final prefs = await SharedPreferences.getInstance();
     await prefs.setInt('last_feed_position', _currentPage);
     await prefs.setInt('last_leave_page', _lastPage);
+    print("last_feed_position=== $_currentPage");
   }
 
   Future<void> _loadLastPosition() async {
@@ -353,6 +354,7 @@ class _HomeScreenState extends State<HomeScreen>
                                 width: 25,
                               ),
                               onTap: () {
+                                _saveLastPosition();
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
@@ -378,6 +380,7 @@ class _HomeScreenState extends State<HomeScreen>
                   ),
                   InkWell(
                     onTap: () {
+                      _saveLastPosition();
                       Navigator.push(
                         context,
                         MaterialPageRoute(
@@ -1748,7 +1751,7 @@ class _HomeScreenState extends State<HomeScreen>
 
       DatabaseReference userRef =
           FirebaseDatabase.instance.ref('users/$userId');
-      print("userRef == $userRef");
+      // print("userRef == $userRef");
       await _userSubscription?.cancel();
       _userSubscription = userRef.onValue.listen((DatabaseEvent event) {
         if (event.snapshot.value != null) {
